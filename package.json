@@ -1,0 +1,15 @@
+{
+  "name": "Directory-tree",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:djq99/Directory-tree.git",
+  "author": "<imdjq1990@gmail.com>",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "scripts":{
+    "start": "node index.js"
+  }
+}
